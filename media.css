@@ -1,0 +1,123 @@
+@media only screen and (min-width: 200px) and (max-width: 576px){
+	
+.top-section-R1{
+	width: 100%;
+	flex-direction: column;
+}
+.top-sec-left{
+	width: 100%;
+}
+.top-sec-right{
+	width: 100%;
+}
+nav{
+	width: 100%;
+}
+.menu{
+	display: none;
+}
+.logo{
+	width: 100%;
+}
+.mid-R1{
+	width: 100%;
+}
+.mid-R1 h2{
+	font-size: 50px;
+}
+.mid-sec-R2 ul li{
+	padding: 0px;
+}
+.mid-sec-R2 ul li i{
+	margin:10px 20px;
+}
+.form-part{
+	width: 100%;
+}
+.where{
+	width: 90%;
+}
+.check-in{
+	width: 80%;
+}
+.form-part select{
+	width:80%;
+}
+.form-part button{
+	width: 100%;
+}
+.section-3rd-main{
+	width: 100%;
+}
+.sec-3rd-contain{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.sec-3rd-contain figure{
+	width:100%;
+	position: unset;
+	top: 0%;
+}
+.sec-3rd-contain figure img{
+	width: 100%;
+	border: none;
+
+}
+.sec-3rd-contain aside{
+	width: 100%;
+}
+.sec-3rd-contain aside{
+	justify-content: flex-start;
+}
+.sec-3rd-contain aside .contain-inner{
+	width: 100%;
+}
+.contain-inner h2{
+	padding: 20px;
+}
+.contain-inner p{
+	padding: 10px 20px;
+}
+.gallery-row1{
+	width: 100%;
+	flex-wrap: wrap;
+}
+.gallery-r1-c1{
+	width: 100%;
+}
+.gallery-r1-c1 img{
+	width: 100%;
+}
+.gallery-r1-c2{
+	width: 100%;
+}
+.popular-hotels{
+	width: 100%;
+	flex-direction: column;
+}
+.popular-hotels figure{
+	width: 100%;
+}
+.popular-hotels aside{
+	width: 100%;
+}
+.popular-img1{
+	width: 44%;
+	margin: 20px 10px;
+}
+.section-5th-main{
+	width: 100%;
+}
+.footer-sec1-main{
+	width: 100%;
+	flex-wrap: wrap;
+}
+.footer-sec1-c1{
+	width:41%;
+}
+.footer-sec2-main{
+	width: 100%;
+}
+}
